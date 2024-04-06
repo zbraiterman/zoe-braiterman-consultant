@@ -6,18 +6,23 @@
     <meta name="description" content="This is my blog about technology, security and business.">
     <title>Tech Blog</title>
     <link rel="stylesheet" href="/assets/style.css">
-    
 </head>
 <body>
     <header class="header-main">
         <img src="/assets/images/logo.jpg" alt="tech geek">
-        <div class="topnav">
+        <div class="navbar">
             <a href="index.html">About</a>
             <a href="guides.html">Guides</a>
-            <a href="reviews.html">Reviews</a>
-            <a href="insights.html">Insights</a>
+            <div class="dropdown"></div>
+                <button class="dropbtn">Reviews
+                    <i class="fa fa-caret-down"></i>
+                </button>
+                <div class="dropdown-content">
+                    <a href="reviews.html">Example</a>
+                    <a href="insights.html">Insights</a>
+                </div>
+            </div>
         </div>
-        <div class="header-main-sm"></div>
     </header>    
     <div class="wrapper">
         <div class="static-txt">Success in</div>
