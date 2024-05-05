@@ -12,7 +12,12 @@ h1, h2 {
   display:  block;
   margin-left: 70px;
   margin-right:  70px;
-  background-color:  blue;
+}
+
+p {
+  display:  block;
+  margin-left: 70px;
+  margin-right:  70px;
 }
 
 .navbar {
