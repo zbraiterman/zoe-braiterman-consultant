@@ -10,10 +10,9 @@ body {
 
 h1, h2 {
   display:  block;
-  padding:  20px 20px 20px 70px;
+  padding:  20px 20px 70px 70px;
   margin-left: 70px;
   margin-right:  70px;
-  padding:  3px;
   background-color:  #e5e4d7;
 }
 
