@@ -67,4 +67,7 @@ body {
 }
 
 .iframe {
+        padding:  20px 20px 20px 70px;
+        border:  black 2px solid;
+        margin:  20px;
 }
