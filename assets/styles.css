@@ -8,6 +8,14 @@ body {
   margin-right:  100px;
 }
 
+h1, h2 {
+    display:  block;
+    margin-left: auto;
+    margin-right:  auto;
+    padding:  3px;
+    background-color:  #e5e4d7;
+}
+
 .navbar {
   overflow: hidden;
   background-color: #800000;
