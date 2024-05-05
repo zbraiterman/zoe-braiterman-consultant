@@ -4,7 +4,7 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-h1, h2, p, ul {
+h1, h2, p {
   display:  block;
   margin-left: 100px;
   margin-right:  100px;
