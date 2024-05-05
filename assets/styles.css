@@ -65,11 +65,3 @@ body {
 .dropdown:hover .dropdown-content {
   display: block;
 }
-
-iframe {
-    margin-left: 70px;
-    margin-right:  70px;
-    padding:  20px 20px 20px 70px;
-    border:  gold 2px solid;
-    margin:  20px;
-}
