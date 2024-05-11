@@ -16,6 +16,12 @@ h1, h2, p {
   margin-right:  120px;
 }
 
+img {
+  display:  block;
+  margin-left: 120px;
+  margin-right:  120px;
+}
+
 .navbar {
   overflow: hidden;
   background-color: #800000;
