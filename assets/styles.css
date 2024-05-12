@@ -76,3 +76,7 @@ img {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+
+footer {
+    background-color: #800000;
+}
