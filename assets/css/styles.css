@@ -84,3 +84,17 @@ img {
 .footer {
     background-color: #800000;
 }
+
+.footer .social-btn {
+    display: inline-block;
+    background-color: #b8860b;
+    color: white;
+    text-decoration: none;
+    padding: 8px 18px;
+    border-radius: 50px;
+    margin: 0 4px;
+}
+
+.footer .social-btn:hover {
+    background-color: #8b6914;
+}
